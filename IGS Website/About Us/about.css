@@ -23,16 +23,16 @@ body{
     text-align: center;
 }
 
-.banner-text h2{
-    font-family:'Times New Roman', Times, serif;
-    margin: 0;
-    font-size: 25px;
-    color: rgb(255, 255, 255);
-}
-
 .banner-text h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
+}
+
+.banner-text h2{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    font-size: 25px;    
+    color: rgb(255, 255, 255);
 }
 
 .banner-text p{
